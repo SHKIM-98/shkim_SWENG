@@ -1,3 +1,0 @@
-This is f1.txt
-Today is 3/30
-hello! change this file 
